@@ -7,7 +7,8 @@ The following information was retrieved from the API call
 - Percent humidity
 - Percent cloudiness
 - Wind speed
-Weather description (for example, clouds, fog, light rain, clear sky) I used the city_data variable is an emplty list the would hold the infomation. A For loop was use to retrived the weather information. This can be viewed in the file [Weather_Database.ipynb in 7 out 7](World_Weather_Analysis/Weather_Database/Weather_Database.ipynb) The columns were reorder to have country as the second colums. This image 1 below shows the city_ data first 5 rows Image 1
+Weather description (for example, clouds, fog, light rain, clear sky) I used the city_data variable is an emplty list the would hold the infomation. A For loop was use to retrived the weather information. This can be viewed in the file [Weather_Database.ipynb in 7 out 7](World_Weather_Analysis/Weather_Database/Weather_Database.ipynb) The columns were reorder to have country as the second colums. The image below shows the city_ data first 5 rows Image 1
+![]()
 ## Deliverable 2: Create a Customer Travel Destinations Map
 In this deliverable I did the following
 
