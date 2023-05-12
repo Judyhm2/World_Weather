@@ -14,14 +14,14 @@ Weather description (for example, clouds, fog, light rain, clear sky) I used the
 ## Deliverable 2: Create a Customer Travel Destinations Map
 In this deliverable I did the following
 
-Add the weather data to a DataFrame: I use the city_data list to create a new pandas DataFrame by passing city_data_df = pd.DataFrame(city_data). Image 1 above illustrates the dataset
-Add the config.py file to the .gitignore file: This was done and imposted the from the config file
+- Add the weather data to a DataFrame: I use the city_data list to create a new pandas DataFrame by passing city_data_df = pd.DataFrame(city_data). Image 1 above illustrates the dataset
+- Add the config.py file to the .gitignore file: This was done and imposted the from the config file
 - Create input statements
 - Filter a DataFrame using the loc method
 - Retrieve hotel data
 - Add data to a pop-up marker
 - Create a marker layer map
-Please Click on Vacaction_Search to view the code I have used the date from WeatherPy_Database.csv to create city_data Dataframe. I then prompt the user to enter the minimum and maximum temperature criteria. This I enter -10 to 80. I then clean up the data by using dropna function to create clean_travel_cities.df dataframe. I added a new column for the Hotel name and also set up my G-Key to access map and locations for the hotels. To highlight the map I add makers and info box
+Please Click on [Vacaction_Search](https://github.com/Judyhm2/World_Weather/blob/main/World_Weather_Analysis/Vacation_Search/Vacation_Search.ipynb) to view the code I have used the date from WeatherPy_Database.csv to create city_data Dataframe. I then prompt the user to enter the minimum and maximum temperature criteria. This I enter -10 to 80. I then clean up the data by using dropna function to create clean_travel_cities.df dataframe. I added a new column for the Hotel name and also set up my G-Key to access map and locations for the hotels. To highlight the map I add makers and info box
 
 heat_layer = gmaps.heatmap_layer(locations, weights=max_temp,dissipating=False, max_intensity=300, point_radius=4) marker_layer = gmaps.marker_layer(locations, info_box_content=hotel_info)
 
