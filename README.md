@@ -26,9 +26,9 @@ Please Click on [Vacaction_Search](https://github.com/Judyhm2/World_Weather/blob
 
 *heat_layer = gmaps.heatmap_layer(locations, weights=max_temp,dissipating=False, max_intensity=300, point_radius=4) marker_layer = gmaps.marker_layer(locations, info_box_content=hotel_info)*
 
-The following image genertated from the Vacaction_Search illustrate the heat layer, the marker layer and the information content box for hotels located in US
+The following image genertated from the [Vacaction_Search](https://github.com/Judyhm2/World_Weather/blob/main/World_Weather_Analysis/Vacation_Search/Vacation_Search.ipynb) illustrate the heat layer, the marker layer and the information content box for hotels located in US
 
-
+![]()
 
 ## Deliverable 3: Create a Travel Itinerary Map
 To resolve and create the travel itinerary I impporteded the config file through (Import API key, from config import g_key). I create a marker layer map with a pop-up marker for each city on the itinerary. To view the details code click on Vacation_Itinerary. The cities on the itinerary are
