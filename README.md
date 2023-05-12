@@ -38,10 +38,10 @@ To resolve and create the travel itinerary I impporteded the config file through
 - 2nd city is Bethel, Marker C
 - 3rd city is WestBury,Nassua, Marker D
 The mode of transportation was Driving, to get from one city to another. The image below show the code use to set the navagiation from one city to another
-
+![](https://github.com/Judyhm2/World_Weather/blob/main/World_Weather_Analysis/weather_data/Deliverable%203.png)
 
 
 To map of the driving to each city 
-
+![](https://github.com/Judyhm2/World_Weather/blob/main/World_Weather_Analysis/weather_data/Deliverable%203b.png)
 The image below shows the pop up box for the locations
-
+![](https://github.com/Judyhm2/World_Weather/blob/main/World_Weather_Analysis/weather_data/Deliverable%203c.png)
