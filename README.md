@@ -8,7 +8,9 @@ The following information was retrieved from the API call
 - Percent cloudiness
 - Wind speed
 Weather description (for example, clouds, fog, light rain, clear sky) I used the city_data variable is an emplty list the would hold the infomation. A For loop was use to retrived the weather information. This can be viewed in the file [Weather_Database.ipynb in 7 out 7](World_Weather_Analysis/Weather_Database/Weather_Database.ipynb) The columns were reorder to have country as the second colums. The image below shows the city_ data first 5 rows Image 1
-![](World_Weather_Analysis/weather_data/Deliverable 1 cities.png)
+
+![](https://github.com/Judyhm2/World_Weather/blob/main/World_Weather_Analysis/weather_data/Deliverable%201%20cities.png)
+
 ## Deliverable 2: Create a Customer Travel Destinations Map
 In this deliverable I did the following
 
